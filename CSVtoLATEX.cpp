@@ -356,7 +356,7 @@ int main(int argc,char* argv[])
 			endTex(latex);
 			latex.close();
 			cout << "Soubor byl uspesne nacten." << endl;
-			cout << "----------------Tabulka uspesne prevedena-----------------------" << endl;	
+			cout << "----------------Tabulka uspesne prevedena------------------------" << endl;	
 		}
 	}
 	return 0;
